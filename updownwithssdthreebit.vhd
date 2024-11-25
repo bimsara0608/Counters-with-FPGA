@@ -70,3 +70,5 @@ begin
     end process;
 
 end Behavioral;
+
+--This works as a up counter when up switch turned on and works as a down counter when down switch turned on
